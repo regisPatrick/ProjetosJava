@@ -1,0 +1,10 @@
+javafx.scene.control.skin.ProgressIndicatorSkin$DeterminateIndicator
+javafx.scene.control.skin.ProgressIndicatorSkin$IndeterminateSpinner
+javafx.scene.control.skin.ProgressIndicatorSkin$IndeterminateSpinner$IndicatorPaths
+javafx.scene.control.skin.ProgressIndicatorSkin$5
+javafx.scene.control.skin.ProgressIndicatorSkin
+javafx.scene.control.skin.ProgressIndicatorSkin$6
+javafx.scene.control.skin.ProgressIndicatorSkin$3
+javafx.scene.control.skin.ProgressIndicatorSkin$4
+javafx.scene.control.skin.ProgressIndicatorSkin$1
+javafx.scene.control.skin.ProgressIndicatorSkin$2

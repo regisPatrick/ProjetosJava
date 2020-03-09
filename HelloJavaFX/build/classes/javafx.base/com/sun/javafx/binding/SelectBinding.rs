@@ -1,0 +1,9 @@
+com.sun.javafx.binding.SelectBinding$AsFloat
+com.sun.javafx.binding.SelectBinding$AsLong
+com.sun.javafx.binding.SelectBinding
+com.sun.javafx.binding.SelectBinding$SelectBindingHelper
+com.sun.javafx.binding.SelectBinding$AsObject
+com.sun.javafx.binding.SelectBinding$AsBoolean
+com.sun.javafx.binding.SelectBinding$AsInteger
+com.sun.javafx.binding.SelectBinding$AsDouble
+com.sun.javafx.binding.SelectBinding$AsString

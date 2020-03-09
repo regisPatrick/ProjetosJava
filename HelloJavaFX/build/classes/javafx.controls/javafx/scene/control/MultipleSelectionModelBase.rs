@@ -1,0 +1,4 @@
+javafx.scene.control.MultipleSelectionModelBase$ShiftParams
+javafx.scene.control.MultipleSelectionModelBase$1
+javafx.scene.control.MultipleSelectionModelBase$SelectedIndicesList
+javafx.scene.control.MultipleSelectionModelBase

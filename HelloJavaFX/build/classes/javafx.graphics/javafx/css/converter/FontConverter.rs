@@ -1,0 +1,8 @@
+javafx.css.converter.FontConverter$FontSizeConverter$Holder
+javafx.css.converter.FontConverter
+javafx.css.converter.FontConverter$FontStyleConverter
+javafx.css.converter.FontConverter$FontWeightConverter
+javafx.css.converter.FontConverter$Holder
+javafx.css.converter.FontConverter$FontStyleConverter$Holder
+javafx.css.converter.FontConverter$FontWeightConverter$Holder
+javafx.css.converter.FontConverter$FontSizeConverter

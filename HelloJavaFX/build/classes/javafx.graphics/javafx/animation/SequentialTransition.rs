@@ -1,0 +1,4 @@
+javafx.animation.SequentialTransition
+javafx.animation.SequentialTransition$3
+javafx.animation.SequentialTransition$2
+javafx.animation.SequentialTransition$1

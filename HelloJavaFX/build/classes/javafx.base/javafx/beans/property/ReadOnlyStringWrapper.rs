@@ -1,0 +1,2 @@
+javafx.beans.property.ReadOnlyStringWrapper$ReadOnlyPropertyImpl
+javafx.beans.property.ReadOnlyStringWrapper

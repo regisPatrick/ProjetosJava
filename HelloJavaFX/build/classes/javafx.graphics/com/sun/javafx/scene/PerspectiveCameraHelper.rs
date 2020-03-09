@@ -1,0 +1,2 @@
+com.sun.javafx.scene.PerspectiveCameraHelper$PerspectiveCameraAccessor
+com.sun.javafx.scene.PerspectiveCameraHelper

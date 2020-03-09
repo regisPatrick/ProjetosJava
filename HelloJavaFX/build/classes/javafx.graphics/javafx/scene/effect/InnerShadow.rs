@@ -1,0 +1,9 @@
+javafx.scene.effect.InnerShadow
+javafx.scene.effect.InnerShadow$1
+javafx.scene.effect.InnerShadow$2
+javafx.scene.effect.InnerShadow$3
+javafx.scene.effect.InnerShadow$4
+javafx.scene.effect.InnerShadow$5
+javafx.scene.effect.InnerShadow$6
+javafx.scene.effect.InnerShadow$7
+javafx.scene.effect.InnerShadow$8

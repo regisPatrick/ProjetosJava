@@ -1,0 +1,9 @@
+javafx.stage.PopupWindow$2
+javafx.stage.PopupWindow$3
+javafx.stage.PopupWindow$4
+javafx.stage.PopupWindow$5
+javafx.stage.PopupWindow
+javafx.stage.PopupWindow$6
+javafx.stage.PopupWindow$PopupEventRedirector
+javafx.stage.PopupWindow$1
+javafx.stage.PopupWindow$AnchorLocation

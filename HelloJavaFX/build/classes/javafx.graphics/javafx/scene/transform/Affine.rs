@@ -1,0 +1,15 @@
+javafx.scene.transform.Affine$1
+javafx.scene.transform.Affine$2
+javafx.scene.transform.Affine$3
+javafx.scene.transform.Affine$10
+javafx.scene.transform.Affine$4
+javafx.scene.transform.Affine$11
+javafx.scene.transform.Affine
+javafx.scene.transform.Affine$5
+javafx.scene.transform.Affine$6
+javafx.scene.transform.Affine$12
+javafx.scene.transform.Affine$AffineElementProperty
+javafx.scene.transform.Affine$AffineAtomicChange
+javafx.scene.transform.Affine$7
+javafx.scene.transform.Affine$8
+javafx.scene.transform.Affine$9

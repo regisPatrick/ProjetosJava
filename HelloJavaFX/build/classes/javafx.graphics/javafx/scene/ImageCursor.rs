@@ -1,0 +1,4 @@
+javafx.scene.ImageCursor$DoublePropertyImpl
+javafx.scene.ImageCursor$ObjectPropertyImpl
+javafx.scene.ImageCursor
+javafx.scene.ImageCursor$DelayedInitialization

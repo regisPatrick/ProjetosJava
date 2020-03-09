@@ -1,0 +1,11 @@
+javafx.scene.control.TextArea$3
+javafx.scene.control.TextArea$2
+javafx.scene.control.TextArea$1
+javafx.scene.control.TextArea$StyleableProperties
+javafx.scene.control.TextArea
+javafx.scene.control.TextArea$StyleableProperties$3
+javafx.scene.control.TextArea$StyleableProperties$2
+javafx.scene.control.TextArea$StyleableProperties$1
+javafx.scene.control.TextArea$TextAreaContent
+javafx.scene.control.TextArea$ParagraphList
+javafx.scene.control.TextArea$ParagraphListChange

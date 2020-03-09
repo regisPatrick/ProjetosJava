@@ -1,0 +1,9 @@
+javafx.animation.Animation$Status
+javafx.animation.Animation$CurrentRateProperty
+javafx.animation.Animation$4
+javafx.animation.Animation$CurrentTimeProperty
+javafx.animation.Animation$1
+javafx.animation.Animation$AnimationReadOnlyProperty
+javafx.animation.Animation$3
+javafx.animation.Animation$2
+javafx.animation.Animation

@@ -1,0 +1,9 @@
+com.sun.marlin.TransformingPathConsumer2D$PathClipFilter
+com.sun.marlin.TransformingPathConsumer2D$CurveBasicMonotonizer
+com.sun.marlin.TransformingPathConsumer2D$PathTracer
+com.sun.marlin.TransformingPathConsumer2D$DeltaScaleFilter
+com.sun.marlin.TransformingPathConsumer2D$DeltaTransformFilter
+com.sun.marlin.TransformingPathConsumer2D$ClosedPathDetector
+com.sun.marlin.TransformingPathConsumer2D$Path2DWrapper
+com.sun.marlin.TransformingPathConsumer2D$CurveClipSplitter
+com.sun.marlin.TransformingPathConsumer2D

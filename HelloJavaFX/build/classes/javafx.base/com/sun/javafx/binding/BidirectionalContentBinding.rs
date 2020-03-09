@@ -1,0 +1,4 @@
+com.sun.javafx.binding.BidirectionalContentBinding
+com.sun.javafx.binding.BidirectionalContentBinding$SetContentBinding
+com.sun.javafx.binding.BidirectionalContentBinding$ListContentBinding
+com.sun.javafx.binding.BidirectionalContentBinding$MapContentBinding

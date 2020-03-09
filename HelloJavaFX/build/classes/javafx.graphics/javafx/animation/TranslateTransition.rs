@@ -1,0 +1,2 @@
+javafx.animation.TranslateTransition
+javafx.animation.TranslateTransition$1

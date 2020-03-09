@@ -1,0 +1,9 @@
+javafx.scene.effect.DropShadow$4
+javafx.scene.effect.DropShadow$5
+javafx.scene.effect.DropShadow$6
+javafx.scene.effect.DropShadow$7
+javafx.scene.effect.DropShadow$8
+javafx.scene.effect.DropShadow$1
+javafx.scene.effect.DropShadow
+javafx.scene.effect.DropShadow$2
+javafx.scene.effect.DropShadow$3

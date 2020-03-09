@@ -1,0 +1,12 @@
+com.sun.scenario.animation.shared.InterpolationInterval$IntegerInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$FloatInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$TangentDoubleInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$TangentFloatInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$TangentIntegerInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$TangentLongInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$DoubleInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$TangentInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$ObjectInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$BooleanInterpolationInterval
+com.sun.scenario.animation.shared.InterpolationInterval$LongInterpolationInterval

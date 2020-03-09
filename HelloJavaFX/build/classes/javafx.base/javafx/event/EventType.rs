@@ -1,0 +1,2 @@
+javafx.event.EventType$EventTypeSerialization
+javafx.event.EventType

@@ -1,0 +1,14 @@
+javafx.scene.effect.Light$Spot
+javafx.scene.effect.Light$Point
+javafx.scene.effect.Light$Distant$1
+javafx.scene.effect.Light$Spot$3
+javafx.scene.effect.Light$Spot$4
+javafx.scene.effect.Light$1
+javafx.scene.effect.Light$Point$1
+javafx.scene.effect.Light$Point$2
+javafx.scene.effect.Light$Point$3
+javafx.scene.effect.Light$Spot$1
+javafx.scene.effect.Light
+javafx.scene.effect.Light$Spot$2
+javafx.scene.effect.Light$Distant$2
+javafx.scene.effect.Light$Distant

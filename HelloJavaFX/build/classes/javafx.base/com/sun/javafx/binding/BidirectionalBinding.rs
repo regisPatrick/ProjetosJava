@@ -1,0 +1,12 @@
+com.sun.javafx.binding.BidirectionalBinding$StringConversionBidirectionalBinding
+com.sun.javafx.binding.BidirectionalBinding$UntypedGenericBidirectionalBinding
+com.sun.javafx.binding.BidirectionalBinding$BidirectionalBooleanBinding
+com.sun.javafx.binding.BidirectionalBinding$BidirectionalDoubleBinding
+com.sun.javafx.binding.BidirectionalBinding$TypedNumberBidirectionalBinding
+com.sun.javafx.binding.BidirectionalBinding$BidirectionalLongBinding
+com.sun.javafx.binding.BidirectionalBinding$TypedGenericBidirectionalBinding
+com.sun.javafx.binding.BidirectionalBinding$BidirectionalFloatBinding
+com.sun.javafx.binding.BidirectionalBinding
+com.sun.javafx.binding.BidirectionalBinding$BidirectionalIntegerBinding
+com.sun.javafx.binding.BidirectionalBinding$StringConverterBidirectionalBinding
+com.sun.javafx.binding.BidirectionalBinding$StringFormatBidirectionalBinding

@@ -1,0 +1,9 @@
+com.sun.javafx.collections.ObservableMapWrapper$ObservableValues
+com.sun.javafx.collections.ObservableMapWrapper$SimpleChange
+com.sun.javafx.collections.ObservableMapWrapper$ObservableKeySet$1
+com.sun.javafx.collections.ObservableMapWrapper$ObservableEntrySet$1
+com.sun.javafx.collections.ObservableMapWrapper$ObservableValues$1
+com.sun.javafx.collections.ObservableMapWrapper
+com.sun.javafx.collections.ObservableMapWrapper$ObservableEntrySet
+com.sun.javafx.collections.ObservableMapWrapper$ObservableKeySet
+com.sun.javafx.collections.ObservableMapWrapper$ObservableEntry

@@ -1,0 +1,3 @@
+com.sun.media.jfxmediaimpl.NativeMediaManager$NativeMediaPlayerDisposer
+com.sun.media.jfxmediaimpl.NativeMediaManager$NativeMediaManagerInitializer
+com.sun.media.jfxmediaimpl.NativeMediaManager

@@ -1,0 +1,1 @@
+javafx.scene.text.TextAlignment

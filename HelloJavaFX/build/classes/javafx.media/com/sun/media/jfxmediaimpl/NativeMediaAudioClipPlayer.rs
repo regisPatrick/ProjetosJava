@@ -1,0 +1,3 @@
+com.sun.media.jfxmediaimpl.NativeMediaAudioClipPlayer
+com.sun.media.jfxmediaimpl.NativeMediaAudioClipPlayer$Enthreaderator
+com.sun.media.jfxmediaimpl.NativeMediaAudioClipPlayer$SchedulerEntry

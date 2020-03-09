@@ -1,0 +1,4 @@
+javafx.animation.ParallelTransition
+javafx.animation.ParallelTransition$2
+javafx.animation.ParallelTransition$3
+javafx.animation.ParallelTransition$1

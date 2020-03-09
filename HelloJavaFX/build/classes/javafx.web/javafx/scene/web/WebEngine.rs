@@ -1,0 +1,13 @@
+javafx.scene.web.WebEngine$PageLoadListener
+javafx.scene.web.WebEngine
+javafx.scene.web.WebEngine$PulseTimer
+javafx.scene.web.WebEngine$3
+javafx.scene.web.WebEngine$2
+javafx.scene.web.WebEngine$AccessorImpl
+javafx.scene.web.WebEngine$1
+javafx.scene.web.WebEngine$LoadWorker
+javafx.scene.web.WebEngine$DocumentProperty
+javafx.scene.web.WebEngine$DebuggerImpl
+javafx.scene.web.WebEngine$SelfDisposer
+javafx.scene.web.WebEngine$PulseTimer$1
+javafx.scene.web.WebEngine$InspectorClientImpl

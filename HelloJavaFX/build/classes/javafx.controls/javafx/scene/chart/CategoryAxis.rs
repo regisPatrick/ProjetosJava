@@ -1,0 +1,9 @@
+javafx.scene.chart.CategoryAxis$StyleableProperties$2
+javafx.scene.chart.CategoryAxis$StyleableProperties$1
+javafx.scene.chart.CategoryAxis$StyleableProperties
+javafx.scene.chart.CategoryAxis$StyleableProperties$3
+javafx.scene.chart.CategoryAxis$3
+javafx.scene.chart.CategoryAxis$4
+javafx.scene.chart.CategoryAxis$1
+javafx.scene.chart.CategoryAxis
+javafx.scene.chart.CategoryAxis$2

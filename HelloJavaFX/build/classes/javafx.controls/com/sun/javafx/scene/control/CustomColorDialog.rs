@@ -1,0 +1,15 @@
+com.sun.javafx.scene.control.CustomColorDialog$ControlsPane$1
+com.sun.javafx.scene.control.CustomColorDialog$ControlsPane$2
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$7
+com.sun.javafx.scene.control.CustomColorDialog$1
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$8
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$5
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$6
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$9
+com.sun.javafx.scene.control.CustomColorDialog
+com.sun.javafx.scene.control.CustomColorDialog$ControlsPane
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$3
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$4
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$1
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane$2
+com.sun.javafx.scene.control.CustomColorDialog$ColorRectPane

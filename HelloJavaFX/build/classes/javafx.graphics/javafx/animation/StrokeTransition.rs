@@ -1,0 +1,2 @@
+javafx.animation.StrokeTransition
+javafx.animation.StrokeTransition$1

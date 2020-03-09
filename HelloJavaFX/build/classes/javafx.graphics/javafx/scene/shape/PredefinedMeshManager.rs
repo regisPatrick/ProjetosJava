@@ -1,0 +1,5 @@
+javafx.scene.shape.PredefinedMeshManager$SphereCacheLoader
+javafx.scene.shape.PredefinedMeshManager$TriangleMeshCache
+javafx.scene.shape.PredefinedMeshManager
+javafx.scene.shape.PredefinedMeshManager$BoxCacheLoader
+javafx.scene.shape.PredefinedMeshManager$CylinderCacheLoader

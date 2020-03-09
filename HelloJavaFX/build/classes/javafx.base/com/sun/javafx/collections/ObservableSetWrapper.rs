@@ -1,0 +1,4 @@
+com.sun.javafx.collections.ObservableSetWrapper$1
+com.sun.javafx.collections.ObservableSetWrapper$SimpleRemoveChange
+com.sun.javafx.collections.ObservableSetWrapper
+com.sun.javafx.collections.ObservableSetWrapper$SimpleAddChange

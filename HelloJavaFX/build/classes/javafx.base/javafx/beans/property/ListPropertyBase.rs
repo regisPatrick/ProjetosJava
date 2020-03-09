@@ -1,0 +1,4 @@
+javafx.beans.property.ListPropertyBase$Listener
+javafx.beans.property.ListPropertyBase$SizeProperty
+javafx.beans.property.ListPropertyBase$EmptyProperty
+javafx.beans.property.ListPropertyBase

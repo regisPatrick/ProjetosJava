@@ -1,0 +1,2 @@
+com.sun.javafx.property.adapter.ReadOnlyPropertyDescriptor$ReadOnlyListener
+com.sun.javafx.property.adapter.ReadOnlyPropertyDescriptor

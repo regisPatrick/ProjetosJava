@@ -1,0 +1,3 @@
+javafx.scene.input.ScrollEvent
+javafx.scene.input.ScrollEvent$VerticalTextScrollUnits
+javafx.scene.input.ScrollEvent$HorizontalTextScrollUnits

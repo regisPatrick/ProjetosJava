@@ -1,0 +1,9 @@
+javafx.scene.shape.ArcTo$8
+javafx.scene.shape.ArcTo$4
+javafx.scene.shape.ArcTo$5
+javafx.scene.shape.ArcTo
+javafx.scene.shape.ArcTo$6
+javafx.scene.shape.ArcTo$7
+javafx.scene.shape.ArcTo$1
+javafx.scene.shape.ArcTo$2
+javafx.scene.shape.ArcTo$3

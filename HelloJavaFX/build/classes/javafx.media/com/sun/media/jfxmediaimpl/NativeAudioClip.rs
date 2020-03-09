@@ -1,0 +1,2 @@
+com.sun.media.jfxmediaimpl.NativeAudioClip
+com.sun.media.jfxmediaimpl.NativeAudioClip$NativeAudioClipDisposer

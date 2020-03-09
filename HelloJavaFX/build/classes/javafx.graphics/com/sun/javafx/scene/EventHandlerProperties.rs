@@ -1,0 +1,2 @@
+com.sun.javafx.scene.EventHandlerProperties$EventHandlerProperty
+com.sun.javafx.scene.EventHandlerProperties

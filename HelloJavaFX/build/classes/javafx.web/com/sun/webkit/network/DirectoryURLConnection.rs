@@ -1,0 +1,2 @@
+com.sun.webkit.network.DirectoryURLConnection
+com.sun.webkit.network.DirectoryURLConnection$DirectoryInputStream

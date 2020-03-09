@@ -1,0 +1,6 @@
+com.sun.javafx.event.CompositeEventHandler$WeakEventHandlerRecord
+com.sun.javafx.event.CompositeEventHandler$EventProcessorRecord
+com.sun.javafx.event.CompositeEventHandler$NormalEventFilterRecord
+com.sun.javafx.event.CompositeEventHandler$WeakEventFilterRecord
+com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord
+com.sun.javafx.event.CompositeEventHandler

@@ -1,0 +1,1 @@
+javafx.util.converter.LongStringConverter

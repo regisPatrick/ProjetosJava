@@ -1,0 +1,12 @@
+javafx.scene.chart.ValueAxis$StyleableProperties$1
+javafx.scene.chart.ValueAxis$7
+javafx.scene.chart.ValueAxis$StyleableProperties$2
+javafx.scene.chart.ValueAxis$6
+javafx.scene.chart.ValueAxis$StyleableProperties$3
+javafx.scene.chart.ValueAxis$StyleableProperties
+javafx.scene.chart.ValueAxis
+javafx.scene.chart.ValueAxis$1
+javafx.scene.chart.ValueAxis$5
+javafx.scene.chart.ValueAxis$4
+javafx.scene.chart.ValueAxis$3
+javafx.scene.chart.ValueAxis$2

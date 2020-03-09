@@ -1,0 +1,2 @@
+javafx.embed.swing.InputMethodSupport
+javafx.embed.swing.InputMethodSupport$InputMethodRequestsAdapter

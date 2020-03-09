@@ -1,0 +1,11 @@
+javafx.stage.Stage$3
+javafx.stage.Stage$2
+javafx.stage.Stage$1
+javafx.stage.Stage$ResizableProperty
+javafx.stage.Stage$7
+javafx.stage.Stage
+javafx.stage.Stage$6
+javafx.stage.Stage$5
+javafx.stage.Stage$4
+javafx.stage.Stage$9
+javafx.stage.Stage$8
